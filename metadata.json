@@ -1,0 +1,30 @@
+{
+  "fileFormatVersion": 1,
+  "clientSchemaVersion": 1,
+  "serverSchemaVersion": 1,
+  "publishedDefaultPageName": "TEDDemo",
+  "unpublishedDefaultPageName": "TEDDemo",
+  "actionCollectionList": [],
+  "editModeTheme": {
+    "name": "Classic",
+    "isSystemTheme": true,
+    "deleted": false,
+    "policies": []
+  },
+  "publishedTheme": {
+    "name": "Classic",
+    "isSystemTheme": true,
+    "deleted": false,
+    "policies": []
+  },
+  "publishedLayoutmongoEscapedWidgets": {
+    "Page1": [
+      "MongoDB"
+    ]
+  },
+  "unpublishedLayoutmongoEscapedWidgets": {
+    "Page1": [
+      "MongoDB"
+    ]
+  }
+}
